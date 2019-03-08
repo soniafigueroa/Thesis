@@ -1,5 +1,5 @@
 # Love, lust, and loss: Attachment style and relationship preferences of OKCupid users
 
-## My undergraduate thesis
+### _My undergraduate thesis_
 
 In this exploratory study, the responses of nearly 70,000 OKCupid users to a series of questions on the website are assessed to determine a relationship between romantic relationship preferences and attachment style. Specifically, the romantic relationship preferences were monogamy and long-term relationship preference. Four types of attachment styles are looked at in this study: secure, anxious, avoidant, and fearful. Five scales are created from the original 2,600 questions to assess relationship preferences and attachment style, with scores ranging from 0 to 1. Users were then classified into one of the four attachment styles. Attachment style of users was predicted using a k-NN analysis, and ROC curves were plotted for monogamy and relationship scores for each attachment style. A relationship between attachment style and relationship preferences was found. The largest differences were found when comparing securely and fearfully attached individuals.
